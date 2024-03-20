@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 255, 255); /* Adjust the alpha value for the desired fuzziness */
+  }
+  
+  /* White background for the side panel */
+  .side-panel {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20%;
+    background-color: rgb(84, 142, 229);
+    padding: 20px; /* Add padding to the side panel */
+  }
